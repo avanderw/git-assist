@@ -1,0 +1,4 @@
+2019-08-21 Add function to +cleanup unmerged branches
+2019-08-21 Enhance +cleanup scripts to take parameters
+2019-08-21 Add +properties for the script and application locations
+2019-08-21 Refactor merged branch +cleanup to it's own command instead of the root command
